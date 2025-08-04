@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🧐 I’m currently working on AInnovation company as a Senior Algorithm Engineer for Embodied Large Models.
-
+🌱 I graduated from Southern University of Science and Technology with a PhD in Physics in 2025.
 🌎 (Prev) visiting scholar at UCLA.
 
 <!--
