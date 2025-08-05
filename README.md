@@ -1,8 +1,7 @@
-## Hi there 👋
-
-🧐 I’m currently working on AInnovation company as a Senior Algorithm Engineer for Embodied Large Models.  
-🌱 I graduated from Southern University of Science and Technology with a PhD in Physics in 2025.  
-🌎 (Prev) visiting scholar at UCLA.  
+## Hi there 👋  
+🧠 I’m currently a Senior Algorithm Engineer at AInnovation, working on Embodied Large Models.  
+🎓 I earned my Ph.D. in Physics from Southern University of Science and Technology in 2025.  
+🌎 Previously, I was a visiting scholar at UCLA, where I conducted research on AI applications in space physics domain.  
 
 <!--
 **pinecypressfxd/pinecypressfxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
