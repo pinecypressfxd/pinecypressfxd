@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hi there, I am xuedong. 👋  
 🧠 I’m currently a Senior Algorithm Engineer, working on Embodied Large Models.  
 🎓 I earned my Ph.D. in Physics from Southern University of Science and Technology in 2025.  
 🌎 Previously, I was a visiting scholar at UCLA, where I conducted research on AI applications in space physics domain.  
